@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 無為
+趣味プログラマー
+
+## Languages
+
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
+
+- NodeJS
+- Deno
+
+## Contacts
+
+- **Twitter**: [@muimui2008_0903](https://twitter.com/intent/user?user_id=1074371888644669440)
+- **Discord**: [むいむい](https://discord.com/users/560727352011653126)
+- **Misskey（りなっくすきー）**: <a rel="me" href="https://social.sda1.net/@mui">@mui@social.sda1.net</a>
